@@ -1,7 +1,7 @@
 Package: rlandfire
 Type: Package
 Title: Interface to 'LANDFIRE Product Service' API
-Version: 2.0.0
+Version: 2.0.1
 Authors@R: 
   c(person(given = "Mark",
            family = "Buckner",
@@ -22,7 +22,8 @@ Config/testthat/edition: 3
 VignetteBuilder: knitr
 Depends: R (>= 4.1.0)
 NeedsCompilation: no
-Packaged: 2025-04-28 22:17:10 UTC; mark
-Author: Mark Buckner [aut, cre, cph] (<https://orcid.org/0000-0002-9692-7454>)
+Packaged: 2025-07-31 17:16:33 UTC; mark
+Author: Mark Buckner [aut, cre, cph] (ORCID:
+    <https://orcid.org/0000-0002-9692-7454>)
 Repository: CRAN
-Date/Publication: 2025-04-28 22:30:02 UTC
+Date/Publication: 2025-07-31 17:40:02 UTC
